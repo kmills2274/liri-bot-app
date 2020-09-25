@@ -1,0 +1,79 @@
+
+User Command: node liri.js concert-this pitbull
+--------------- Bands In Town Info ---------------
+Venue #1: Streaming LIVE
+Venue Location: , , 
+Date: 09/26/2020
+Venue #2: Streaming LIVE
+Venue Location: , , 
+Date: 10/03/2020
+Venue #3: Pechanga Resort Casino
+Venue Location: Temecula, CA, United States
+Date: 03/19/2021
+Venue #4: Fantasy Springs Resort Casino
+Venue Location: Indio, CA, United States
+Date: 03/20/2021
+Venue #5: Sands Bethlehem Event Center
+Venue Location: Bethlehem, PA, United States
+Date: 03/25/2021
+Venue #6: Hard Rock Cafe
+Venue Location: Atlantic City, NJ, United States
+Date: 03/26/2021
+Venue #8: Casino Arizona at Talking Stick Resort
+Venue Location: Scottsdale, AZ, United States
+Date: 05/28/2021
+Venue #10: Mississippi Valley Fair
+Venue Location: Davenport, IA, United States
+Date: 08/07/2021
+Venue #12: Tortuga Music Festival
+Venue Location: Fort Lauderdale, FL, United States
+Date: 11/14/2021
+Venue #11: Wolf Trap Foundation for the Performing Arts
+Venue Location: Vienna, VA, United States
+Date: 08/29/2021
+Venue #7: Fox Tower at Foxwoods
+Venue Location: Ledyard, CT, United States
+Date: 03/27/2021
+Venue #9: Laughlin Event Center
+Venue Location: Laughlin, NV, United States
+Date: 05/29/2021
+
+User Command: node liri.js concert-this grimes
+--------------- Bands In Town Info ---------------
+Venue #1: Streaming LIVE
+Venue Location: , , 
+Date: 09/26/2020
+
+User Command: node liri.js spotify-this-song savage
+--------------- Spotify Song Info ---------------
+Artist(s): Jawsh 685
+Song Name: Savage Love (Laxed - Siren Beat)
+Preview Link: https://p.scdn.co/mp3-preview/d709526bcdffa6683f85c9255c2fd4e7871ba04c?cid=70607caabcfa46aa8122c06c198dcba7
+Album: Savage Love (Laxed - Siren Beat)
+
+User Command: node liri.js spotify-this-song rain on me
+--------------- Spotify Song Info ---------------
+Artist(s): Lady Gaga
+Song Name: Rain On Me (with Ariana Grande)
+Preview Link: null
+Album: Rain On Me (with Ariana Grande)
+
+User Command: node liri.js movie-this glass
+--------------- OMDB Movie Info ---------------
+Title: Glass
+Release Year: 2019
+IMDB Rating: 6.7
+Rotten Tomatoes Rating: 36%
+Country: USA, China
+Language: English, Spanish
+Plot: Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.
+Actors: James McAvoy, Bruce Willis, Samuel L. Jackson, Anya Taylor-Joy
+
+User Command: node liri.js do-what-it-says 
+
+User Command: node liri.js spotify-this-song I Want it That Way"
+--------------- Spotify Song Info ---------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=70607caabcfa46aa8122c06c198dcba7
+Album: Millennium
