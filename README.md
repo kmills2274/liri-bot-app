@@ -1,6 +1,6 @@
 # liri-bot-app
 
-**** See Screenshots/Recordings folder for examples of functionality ****
+**** See Screenshots-Recordings folder for examples of functionality ****
 
 LIRI-Bot-App Overview:
 
@@ -45,4 +45,4 @@ What Each Command Should Do:
 
 -Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call run `spotify-this-song` for "I Want it That Way," (as per the text in `random.txt`).
 
-**** See Screenshots/Recordings folder for examples of functionality ****
+**** See Screenshots-Recordings folder for examples of functionality ****
